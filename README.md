@@ -1,5 +1,5 @@
 # COVID19_Faceshield
-Face shield files for 3D printing and laser cutting in order to assist the California State University Bakersfield Fab Lab's donations to Kern Public Health.
+Face shield files for 3D printing and laser cutting in order to assist the California State University Bakersfield Fab Lab. These will be given as donations to Kern Public Health.
 Most recent release is available here:
 
 # Print:
