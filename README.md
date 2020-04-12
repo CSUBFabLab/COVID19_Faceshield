@@ -9,6 +9,10 @@ Download the latest release and unzip the folder.
 
 Using PETG filament print the Headband RC3 Quad Improved file, if it will fit on your printer. If it will not fit, print the Headband RC1 file which is slightly smaller. The RC3 design is much preferred over the RC1.
 
+Print settings we have used: Support off, Raft off, Nozzle 230C-260C (depending on your printer's abilities), Bed ~60C, Layer Height 0.3mm, 4 perimeters, 0% infill.
+
+Print surface: Painters tape with glue stick (tested on cold bed), glass with hair spray (tested on heated bed)
+
   Original source for these files: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2 however the RC3 Quad Improved version is modified by Android's 3D to have no sidwall text and is only available here.
 
 ########
