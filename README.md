@@ -13,10 +13,12 @@ Print settings we have used: Support off, Raft off, Nozzle 230C-260C (depending 
 
 Print surface: Painters tape with glue stick (tested on cold bed), glass with hair spray (tested on heated bed)
 
-  Original source for these files: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2 however the RC3 Quad Improved version is modified by Android's 3D to have no sidwall text and is only available here.
+  Original source for these files: https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2 however the RC3 Improved version is modified by Android's 3D to have no sidwall text and is only available here.
 
 ########
 
 Unnecessary for others at this time but included for completeness, the bottom reinforcement can be printed out of PLA. This is a minimalist design that prints very quickly as compared to the original Prusa design. The Fab Lab has enough printers making these currently. We only need help with the headbands.
 
   Original source for this file: https://www.prusaprinters.org/prints/27801-easy-and-fast-bottom_reinforcement-alternative
+
+Also included for completeness is the template for the clear shield. It is designed to fit on a 24"x12" laser cutter.
