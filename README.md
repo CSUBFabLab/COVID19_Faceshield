@@ -20,3 +20,5 @@ Print surface: Painters tape with glue stick (tested on cold bed), glass with ha
 Unnecessary for others at this time but included for completeness, the bottom reinforcement can be printed out of PLA. This is a minimalist design that prints very quickly as compared to the original Prusa design. The Fab Lab has enough printers making these currently. We only need help with the headbands.
 
   Original source for this file: https://www.prusaprinters.org/prints/27801-easy-and-fast-bottom_reinforcement-alternative
+
+Also included for completeness is the template for the clear shield. It is designed to fit on a 24"x12" laser cutter.
